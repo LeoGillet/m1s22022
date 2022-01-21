@@ -5,12 +5,10 @@ def file_to_string(filename):
 
 def naive_matcher(file: str, pat: str):
 	seq = file_to_string(file)
-	print(len(seq))
 	occurences = []
-	char_comps = 0
+	char_comps = shift = 0
 	len_pat = len(pat)
 	len_seq = len(seq)
-	shift = 0
 	for index in range(len_seq-1):
 		found = False
 		while seq[index+shift] == pat[0+shift] and not found:
@@ -41,14 +39,17 @@ def compute_prefix_table(pat):
 	return bestp
 
 def kmp_matcher(file: str, pat: str):
+	# TODO : n comparaisons trop grand, n occurences 215 =/= 245
 	seq = file_to_string(file)
 	bestp = compute_prefix_table(pat)
 	q = char_comps = occurences = 0
 	for i in range(0, len(seq)):
 		while q > 0 and pat[q] != seq[i]:
 			q = bestp[q]
+			char_comps += 1
 		if pat[q] == seq[i]:
 			q += 1
+			char_comps += 1
 		if q == len(pat):
 			q = bestp[q-1]
 			occurences += 1
