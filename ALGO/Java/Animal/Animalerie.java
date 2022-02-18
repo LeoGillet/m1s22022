@@ -1,20 +1,21 @@
 
 import java.util.*;
+import java.nio.file.*;
 // import java.lang.*;
-// import java.io.*;
+import java.io.*;
 
-// TODO : 
+// TODO :
 // + - supprAnimal : redondance query base de données affichage liste + recherche par id
 
-public class Animalerie {
-	public static void ClearConsole(){
+public class Animalerie extends ArrayList {
+	static String id;
+
+    public void ClearConsole() {
         System.out.print("\033[H\033[2J");
         System.out.flush();
     }
 
-	public static List<Animal> arr_animaux = new ArrayList<Animal>();
-
-	private static String stringInput(String prompt) {
+	private String stringInput(String prompt) {
 		String input;
 		Scanner scanner = new Scanner(System.in);
 		while (true) {
@@ -32,7 +33,7 @@ public class Animalerie {
 		return input;
 	}
 
-	private static int intInput(String prompt) {
+	private int intInput(String prompt) {
 		Scanner scanner = new Scanner(System.in);
 		int input;
 		while (true) {
@@ -48,22 +49,55 @@ public class Animalerie {
 		return input;
 	}
 
-	public static void saisieAnimal() {
+	public void export_animalerie() {
+		char sep = ',';
+		String fileName = stringInput("Entrez le nom du fichier [.csv] : ");
+		fileName = fileName+".csv";
+		try {
+			FileWriter writer = new FileWriter(fileName);
+			for (int i = 0; i < size(); i++) {
+				Animal item = (Animal)get(i);
+	  			writer.write(item.id + sep + item.age + sep + item.type() + System.lineSeparator());
+			}
+			writer.close();
+		} catch (Exception e) {
+			System.out.println("An error occurred while writing to file " + fileName);
+		}
+		System.out.println("Sauvegarde effectuée avec succès.");
+	}
+
+	public void saisieAnimal() {
 		ClearConsole();
+		System.out.println("-- Ajouter un animal --");
+		System.out.println("Types supportés : Rat, Souris");
+		String typeAnimal = stringInput("Quel type d'animal : ");
+		typeAnimal = typeAnimal.toLowerCase();
 		int n = intInput("Combien d'animaux à ajouter : ");
-		for (int i = 0; i < n; i++) {
-			String nom = stringInput("Entrez le nom : ");
-			int age = intInput("Entrez l'age : ");
-			Animal item = new Animal(nom, age);
-			arr_animaux.add(item);
+		switch (typeAnimal) {
+			case "rat":
+				for (int i = 0; i < n; i++) {
+					String nom = stringInput("Entrez le nom : ");
+					int age = intInput("Entrez l'age : ");
+					Animal item = new Rat(nom, age);
+					add(item);
+				}
+				break;
+			case "souris":
+				for (int i = 0; i < n; i++) {
+					String nom = stringInput("Entrez le nom : ");
+					int age = intInput("Entrez l'age : ");
+					Animal item = new Souris(nom, age);
+					add(item);
+				}
+				break;
 		}
 	}
-	
 
-	public static int getIndex(String query) {
+	public int getIndex(String query) {
 		String name;
-		for (int i = 0; i < arr_animaux.size(); i++) {
-			name = arr_animaux.get(i).id;
+		for (int i = 0; i < size(); i++) {
+			Animal item = (Animal)get(i);
+			name = item.id;
 			if (name.equals(query)) {
 				return i;
 			}
@@ -72,37 +106,44 @@ public class Animalerie {
 	}
 
 
-	public static void supprAnimal() {
+	public void supprAnimal() {
 		int query_index;
 		System.out.println("-- Supprimer un animal --");
-		System.out.println("Animaux trouvés dans la base de données ("+arr_animaux.size()+") :");
-		for (int i = 0; i < arr_animaux.size(); i++) {
-			System.out.print(arr_animaux.get(i).id+", ");
+		System.out.println("Animaux trouvés dans la base de données ("+size()+") :");
+		for (int i = 0; i < size(); i++) {
+			Animal item =  (Animal)get(i);
+			System.out.print(item.id+", ");
 		}
 		System.out.println();
 		String query = stringInput("Entrez le nom de l'animal : ");
 		query_index = getIndex(query);
 		if (query_index == -1) 	{System.out.println("Animal introuvable.");} 
-		else 					{arr_animaux.remove(query_index);}
+		else 					{remove(query_index);}
 	}
 
-	public static void print_menu() {
+	public void print_menu() {
 		System.out.println("1. Créer des entrées");
 		System.out.println("2. Supprimer des entrées");
-		System.out.println("3. Afficher les entrées (WIP)");
+		System.out.println("3. Afficher les entrées");
+		System.out.println("4. Exporter l'animalerie");
+		System.out.println("0. Quitter");
 		System.out.println();
 	}
 
-	public static void afficher() {
-		for (int i = 0; i < arr_animaux.size() ; i++) {
-			arr_animaux.get(i).info();
+	public void afficher() {
+		System.out.println("-- Animaux trouvés --");
+		for (int i = 0; i < size() ; i++) {
+			Animal item = (Animal)get(i);
+			item.info();
 		}
 	}
 
-	public static void menu() {
+	public void menu() {
 		print_menu();
 		int choix = intInput("Choix : ");
 		switch(choix) {
+			case 0:
+				System.exit(0);
 			case 1: // Créer
 				ClearConsole();
 				saisieAnimal();
@@ -115,12 +156,17 @@ public class Animalerie {
 				ClearConsole();
 				afficher();
 				break;
+			case 4:
+				ClearConsole();
+				export_animalerie();
+				break;
 		}
 	}
 
-	public static void main(String[] args) {
+	public void start() {
 		ClearConsole();
 		while (true) {
+			System.out.println(size());
 			menu();
 		}
 	}
