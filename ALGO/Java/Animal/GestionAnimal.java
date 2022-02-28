@@ -53,26 +53,27 @@ public class GestionAnimal {
 
 
 	public static Animalerie import_file() {
-		String animal_type; Rat rat; Souris souris; char SEPARATOR = ',';
+		String animal_type; Rat rat; Souris souris; String SEPARATOR = ",";
 		String filename = stringInput("Entrez le nom du fichier à importer : ");
 		String short_filename = filename.substring(0, filename.length()-4);
-		Animalerie animaux = new Animalerie(); names.add(short_filename);
+		Animalerie animaux = new Animalerie(short_filename);
 		List<String> lines = Collections.emptyList();
 		try {
 			lines = Files.readAllLines(Paths.get(filename), StandardCharsets.UTF_8);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		String sep = new Character(SEPARATOR).toString();
+		// String sep = new Character(SEPARATOR).toString();
 		for (String line : lines) {
 			// 0: name, 1: age, 2: type
-			String[] animal_info = line.split(sep);
+			String[] animal_info = line.split(SEPARATOR);
+			System.out.println("Found animal '"+animal_info[0]+"' of type '"+animal_info[2]+"'");
 			switch (animal_info[2]) {
-				case "rat":
+				case "Rat":
 					rat = new Rat(animal_info[0], Integer.parseInt(animal_info[1]));
 					animaux.add(rat);
 					break;
-				case "souris":
+				case "Souris":
 					souris = new Souris(animal_info[0], Integer.parseInt(animal_info[1]));
 					animaux.add(souris);
 					break;
@@ -101,7 +102,7 @@ public class GestionAnimal {
 	public static void creer_animalerie() {
 		String name = stringInput("Entrez un nom d'animalerie [0: default] : ");
 		if (name == "0") {name = "default";}
-		Animalerie animaux = new Animalerie();
+		Animalerie animaux = new Animalerie(name);
 		names.add(name);
 		animaleries.add(animaux);
 	}
@@ -117,15 +118,15 @@ public class GestionAnimal {
 		print_menu();
 		int choix = intInput("Choix : ");
 		switch(choix) {
-			case 0:
+			case 0: // Quitter
 				System.exit(0);
-			case 1:
+			case 1: // Créer
 				creer_animalerie();
 				break;
-			case 2: // Créer
+			case 2: // Importer
 				animaleries.add(import_file());
 				break;
-			case 3: // Supprimer
+			case 3: // Modifier
 				ClearConsole();
 				afficher_animaleries();
 				choix = intInput("Choix : ");

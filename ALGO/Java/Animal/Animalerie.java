@@ -1,4 +1,3 @@
-
 import java.util.*;
 import java.nio.file.*;
 // import java.lang.*;
@@ -10,6 +9,10 @@ import java.io.*;
 public class Animalerie extends ArrayList {
 	static String id;
 
+	Animalerie(String nom) {
+		this.id = nom;
+	}
+	
     public void ClearConsole() {
         System.out.print("\033[H\033[2J");
         System.out.flush();
