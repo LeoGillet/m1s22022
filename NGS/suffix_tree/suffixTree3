@@ -1,0 +1,23 @@
+digraph {
+	0 [label=root]
+	0 -> 1
+	0 -> 2
+	0 -> 3
+	0 -> 4
+	1 [label="BANANA$"]
+	2 [label=A]
+	2 -> 5
+	2 -> 6
+	3 [label=NA]
+	3 -> 7
+	3 -> 8
+	4 [label="$"]
+	5 [label="$"]
+	6 [label=NA]
+	6 -> 9
+	6 -> 10
+	7 [label="$"]
+	8 [label="NA$"]
+	9 [label="$"]
+	10 [label="NA$"]
+}

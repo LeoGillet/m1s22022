@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>connard de virus</title>
+    <link rel="shortcut icon" href="img/favicon.ico" />
+</head>
+<body>
+    <section>
+        <label id="choice">Upload CSV file : </label>
+        <input class="choice" id="choiceID" type="file">
+    </section>
+    <section id="csv">
+        <!-- Section data -->
+    </section>
+    <script type="text/javascript" src="src/svg.js"></script>
+    <script type="text/javascript" src="src/covid.js"></script>
+    <script type="text/javascript" src="src/main.js"></script>
+    <script>
+        let csvBrowse = document.getElementById('choiceID');
+        csvBrowse.addEventListener('change', readFile);
+    </script>
+</body>
