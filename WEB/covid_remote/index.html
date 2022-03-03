@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>connard de virus</title>
+    <link rel="shortcut icon" href="../covid_local/img/favicon.ico" />
+</head>
+<body>
+    <button id="upload">Upload</button>
+    <section id="csv">
+        <!-- Section data -->
+    </section>
+    <script type="text/javascript" src="src/covid2.js"></script>
+    <script type="text/javascript" src="src/common.js"></script>
+    <script type="text/javascript" src="src/chart.js"></script>
+    <script>
+        let button = document.querySelector('#upload');
+        button.addEventListener('click', uploadFile);
+    </script>
+</body>
