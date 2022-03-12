@@ -1,0 +1,21 @@
+digraph  {
+CGT;
+GTC;
+CGC;
+GCG;
+ACG;
+CGA;
+GAC;
+TCG;
+CGT -> GTC  [key=0];
+GTC -> TCG  [key=0];
+CGC -> GCG  [key=0];
+CGC -> GCG  [key=1];
+GCG -> CGT  [key=0];
+GCG -> CGA  [key=0];
+ACG -> CGC  [key=0];
+ACG -> CGC  [key=1];
+CGA -> GAC  [key=0];
+GAC -> ACG  [key=0];
+TCG -> CGC  [key=0];
+}

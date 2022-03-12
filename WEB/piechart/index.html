@@ -3,16 +3,33 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Vaccine delivery in France - Covid-19</title>
+    <title>France vaccine delivery - Covid-19</title>
+    <style>
+        <!-- -->
+        path {transform: none; transition: all 400ms;}
+        * {font-family: OpenSans;}
+        #buttons {margin: auto; width: 50%;}
+    </style>
 </head>
 <body>
-<button id="upload">Start</button>
 <!-- Loading script files -->
+<section id="buttons">
+    <button id="drawpie">Draw Pie Chart</button>
+    <button id="drawdonut">Draw Donut Chart</button>
+    <button id="clear">Clear page</button>
+</section>
+<section id="drawbox" >
+    <!-- Charts will be drawn here -->
+</section>
 <script type="text/javascript" src="src/file.js"></script>
 <script type="text/javascript" src="src/attributes.js"></script>
 <script type="text/javascript" src="src/charts.js"></script>
 <script>
-    let button = document.querySelector('#upload');
-    button.addEventListener('click', uploadFile);
+    let pieButton = document.querySelector('#drawpie');
+    pieButton.addEventListener('click', drawPie);
+    let donutButton = document.querySelector('#drawdonut');
+    donutButton.addEventListener('click', drawDonut);
+    let clearButton = document.querySelector('#clear');
+    clearButton.addEventListener('click', clear);
 </script>
 </body>
