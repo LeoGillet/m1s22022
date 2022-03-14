@@ -314,7 +314,7 @@ async function drawDonut(ev) {
     let data = await uploadFile(ev);
     console.log(data);
     let svgbox = donutChart(data, 100, 100, 30, 50, "drawbox");
-    let title = caption("Delivery of COVID-19 vaccines in France by vaccine manufacturer (2019-present)")
+    let title = caption("Delivery of COVID-19 vaccines in France by vaccine manufacturer (2021-present)")
     svgbox.appendChild(title);
     let label = text(20, 40, "Hover over chart to print data"); attribute(label, "id", "label");
     svgbox.appendChild(label);
