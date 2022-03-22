@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulaire</title>
+</head>
+<body>
+<form>
+  <h1>Exo 16: Formulaire de soumission d'article</h1>
+  <p> Veuillez suivre les étapes suivantes pour soumettre votre article à notre fabuleux journal. <br>
+    <br> Les champs obligatoires sont suivis par *.
+  </p>
+  <div id="column1" style="float: left; width: 35%">
+    <h2>Informations de contact</h2>
+    <fieldset>
+      <legend>Qualité</legend>
+      <ul>
+        <li>
+          <input type="radio" id="mme" name="mme">
+          <label for="mme">Madame</label>
+        </li>
+        <li>
+          <input type="radio" id="mr" name="mr">
+          <label for="mr">Monsieur</label>
+        </li>
+        <li>
+          <input type="radio" id="dr" name="dr">
+          <label for="dr">Docteur</label>
+        </li>
+        <li>
+          <input type="radio" id="pr" name="pr">
+          <label for="pr">Professeur</label>
+        </li>
+      </ul>
+    </fieldset>
+    <br>
+    <label for="nom1">Nom: *</label>
+    <input type="text" id="nom1" name="nom1" required="required">
+    <br>
+    <br>
+    <label for="email1">Email: *</label>
+    <input type="text" id="email1" name="email1" required="required">
+    <br>
+    <br>
+    <label for="mdp1">Mot de passe: *</label>
+    <input type="password" id="mdp1" name="mdp1" required="required">
+    <br>
+    <br>
+    <fieldset>
+      <legend>Qualité</legend>
+      <ul>
+        <li>
+          <input type="radio" id="mme2" name="mme2">
+          <label for="mme2">Madame</label>
+        </li>
+        <li>
+          <input type="radio" id="mr2" name="mr2">
+          <label for="mr2">Monsieur</label>
+        </li>
+        <li>
+          <input type="radio" id="dr2" name="dr2">
+          <label for="dr2">Docteur</label>
+        </li>
+        <li>
+          <input type="radio" id="pr2" name="pr2">
+          <label for="pr2">Professeur</label>
+        </li>
+      </ul>
+    </fieldset>
+    <br>
+    <label for="nom2">Nom: *</label>
+    <input type="text" id="nom2" name="nom2" required="required">
+    <br>
+    <br>
+    <label for="email2">Email: *</label>
+    <input type="text" id="email2" name="email2" required="required">
+    <br>
+    <br>
+    <label for="mdp2">Mot de passe: *</label>
+    <input type="password" id="mdp2" name="mdp2" required="required">
+  </div>
+  <div id="column2" style="float: right; width: 60%">
+    <h2>Votre article</h2>
+    <label for="title">Titre : *</label>
+    <br>
+    <textarea rows="1" cols="50" id="title" maxlength="50" placeholder="Titre de votre article (50 caractères max)" required="required"></textarea>
+    <br>
+    <br>
+    <label for="article">Article : *</label>
+    <br>
+    <textarea rows="10" cols="50" id="article" maxlength="500" placeholder="Résumé de votre article (500 caractères max)" required="required"></textarea>
+    <br>
+    <br>
+    <label>Reviewers : * <span style="font-style: italic">Merci de sélectionner au moins 1 reviewer (Reviewer 1 sélectionné par défaut)</span>
+    </label>
+    <br>
+    <br>
+    <input type="checkbox" id="r1" name="r1" checked>
+    <label for="r1">Reviewer 1</label>
+    <input type="checkbox" id="r2" name="r2">
+    <label for="r2">Reviewer 2</label>
+    <input type="checkbox" id="r3" name="r3">
+    <label for="r3">Reviewer 3</label>
+    <h2>Paiement</h2>
+    <label for="carte">Type de carte:</label>
+    <select name="carte" id="carte">
+      <option value="visa">Visa</option>
+      <option value="master">Master</option>
+      <option value="paypal">Paypal</option>
+    </select>
+    <br>
+    <label for="numero_carte">Numéro de carte: *</label>
+    <input type="number" id="numero_carte" required="required">
+    <br>
+    <label for="date_exp"> Date d'expiration: * <span style="font-style: italic">De la forme MM/AA</span>
+    </label>
+    <input type="month" id="date_exp" required="required">
+    <br>
+    <br>
+    <button type="submit">Valider la soumission</button>
+  </div>
+</form>
+</body>
+</html>
