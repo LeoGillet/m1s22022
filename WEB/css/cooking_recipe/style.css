@@ -1,0 +1,87 @@
+body {
+    background: linear-gradient(270deg, olivedrab, indianred);
+    background-size: 400% 400%;
+
+    -webkit-animation: backgroundgrad 11s ease infinite;
+    -moz-animation: backgroundgrad 11s ease infinite;
+    -o-animation: backgroundgrad 11s ease infinite;
+    animation: backgroundgrad 11s ease infinite;
+}
+
+.navbar {
+    background-color: #313236;
+    border-radius: 2px;
+    max-width: 800px;
+}
+
+.navbar a {
+    color: #aaa;
+    display: inline-block;
+    font-size: 15px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: #ffffff;
+}
+
+@-webkit-keyframes backgroundgrad {
+    0%{background-position:15% 0%}
+    50%{background-position:86% 100%}
+    100%{background-position:15% 0%}
+}
+@-moz-keyframes backgroundgrad {
+    0%{background-position:15% 0%}
+    50%{background-position:86% 100%}
+    100%{background-position:15% 0%}
+}
+@-o-keyframes backgroundgrad {
+    0%{background-position:15% 0%}
+    50%{background-position:86% 100%}
+    100%{background-position:15% 0%}
+}
+@keyframes backgroundgrad {
+    0%{background-position:15% 0%}
+    50%{background-position:86% 100%}
+    100%{background-position:15% 0%}
+}
+
+* {
+    font-family: 'IM Fell English SC', serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 36px;
+    text-decoration: underline;
+    color: yellow;
+    background: aqua;
+    border: 4px dot-dot-dash;
+}
+
+h2 {
+    font-family: 'Fontdiner Swanky', cursive;
+    font-size: 23px;
+    background: radial-gradient(yellow, blue);
+}
+
+h2:hover {
+    background: radial-gradient(blue, yellow);
+}
+
+ul {
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+#intro {
+    background: darksalmon;
+    font-size: 16pt;
+    font-style: italic;
+}
+
+#comment {
+    font-style: italic;
+}

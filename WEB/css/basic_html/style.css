@@ -1,0 +1,71 @@
+h1 {
+    color: blue;
+    background: lightblue;
+}
+
+h2 {
+    color: #0059ff;
+    background: rgb(0%, 50%, 100%);
+}
+
+h1 {
+    background: linear-gradient(lightblue, darkblue);
+}
+
+h1 {
+    padding: 10px 15px;
+    margin: 30px 20px;
+}
+/* Inner margin : padding */
+
+p {
+    border: 0;
+    border-bottom: 6px;
+    border-style: dotted;
+    padding-bottom: 10px;
+}
+
+h1:hover{
+    background: red;
+    color: yellow;
+}
+
+p:nth-of-type(odd) {
+    background: rgb(96%, 96%, 96%);
+}
+
+p:nth-of-type(even) {
+    background: rgb(80%, 80%, 80%);
+
+}
+
+* {
+    font-family: 'Fontdiner Swanky', cursive;
+    font-max-size: 2em;
+    font-min-size: 1em;
+}
+
+h1 {
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+p:first-of-type:first-letter {
+    float: top;
+    font-size: 80px;
+    padding: 0.05em 0.05em;
+
+}
+
+nav {
+    background: lightgrey;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    display: inline;
+}
