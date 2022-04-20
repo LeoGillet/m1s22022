@@ -1,0 +1,449 @@
+ident;insee;nom;descript;milieu;paysage;service
+141;33249;Bois du Grand Tressan;Cet espace boisé de 6 ha est un agréable lieu de promenade. Marcheur ou coureur, profitez-en pour cheminer, à votre rythme, au milieu des robiniers et des chênes.;BOIS;COTEAUX;HANDICAPES_PARTIEL
+93;33519;Parc du presbytère;Juste derrière l'église Saint-Hilaire, ce parc de centre-ville traversé d'un cours d'eau ne manque pas de charme. Promenez-vous dans son jardin médiéval où sont cultivées des essences fruitières et de nombreuses plantes aromatiques. Le site propose aussi des activités éducatives (dont une aire de compostage pédagogique) et des jeux.;"COURS_EAU
+PAYSAGE";FORET_OUEST;"TABLES
+BANCS
+JEUX
+ACTIVITES_PEDAGOGIQUES
+HANDICAPES_PARTIEL"
+92;33519;Arboretum;Quelques 200 arbres ont déjà été plantés dans cette prairie en bord de Jalle de Gajac. Porte d'entrée Ouest du futur parc intercommunal des Jalles, cet arboretum privilégie les espèces endémiques et se veut un site de sensibilisation et d'éducation à l'environnement et à la biodiversité. Des activités pédagogiques y sont notamment prévues.;"PAYSAGE
+PRAIRIE";FORET_OUEST;"BANCS
+ACTIVITES_PEDAGOGIQUES
+HANDICAPES_NUL"
+146;33318;Bois des Sources du Peugue;Cette forêt devancière des Landes de 113 ha vous fera goûter à la liberté des grands espaces : sentiers de promenades, parcours santé, parcours équestre, aires de jeux et de pique-nique, plan d eau... Vous aurez le loisir d'observer la multitude d'espèces qui vivent à l'ombre des feuillus et des résineux, ou dans les espaces plus ouverts de la lande humide.;"COURS_EAU
+PAYSAGE
+BOIS
+PLAN_EAU";FORET_OUEST;"JEUX
+EAU
+HANDICAPES_TOTAL"
+116;33032;Bassin Montsouris;Initialement créé pour réguler les risques d'inondations, ce plan d'eau riche en poissons est classé en 2° catégorie. Les amateurs apprécieront ses berges stabilisées et équipées de pontons de pêche. Les ornithologues remarqueront d'autres pêcheurs, tout aussi redoutables : le grèbe huppé ou le cormoran. Le lieu se prête aussi à de belles balades.;PLAN_EAU;COTEAUX;"PECHE
+HANDICAPES_NUL"
+101;33056;Parc Cambon;Il fait bon se détendre dans ce parc paysager où les arbres et une fabrique de jardin en pierre de taille (ornement typique du XIX° siècle) ont été préservés. Les canards qui déambulent sur le plan d'eau contribuent à réguler la prolifération des plantes aquatiques. Avec ses gradins aménagés dans sa pente naturelle et son esplanade, ce parc accueille aussi des spectacles.;"PLAN_EAU
+PAYSAGE";JALLES;"EAU
+HANDICAPES_TOTAL"
+37;33550;Parc de Sallegourde;Les 11 ha du parc de Sallegourde sont inscrits en espace boisé classé. Baladez-vous, régalez-vous des couleurs, des bruits et des odeurs de la forêt, et entretenez votre forme grâce au parcours de santé.;;;
+108;33056;Parc de Majolan;Poétique et ludique, le parc de Majolan invite petits et grands dans une extravagante balade au pays de la rocaille, cet art typique du XIX° siècle. Avec ses fausses grottes qui donnent sur le lac, ses fausses ruines, ses ponts et ses arbres rares, le parc est inscrit à l'inventaire supplémentaire des monuments historiques et labellisé Jardin remarquable.;"PLAN_EAU
+PAYSAGE";JALLES;"TOILETTES
+EAU
+JEUX
+ACTIVITES_PEDAGOGIQUES
+PECHE
+HANDICAPES_TOTAL"
+144;33449;Le château de Belfort et le centre hippique;"En libre accès pour les promeneurs, ce parc boisé de 12 ha accueille le centre équestre municipal. Géré par l'UCPA, il regroupe un ""cheval club"" d'une vingtaine de chevaux ainsi qu'un ""poneys club"".";BOIS;JALLES;HANDICAPES_NUL
+47;33192;Parc de Gazaillan;Un florilège de formes et de couleurs vous attend dans ce sous-bois de 3 ha. Des liquidambars aux couleurs flamboyantes au tronc rouge sombre des sequoias, en passant par l'if aussi droit qu'on le dit et le pin parasol, observez-les, touchez leurs écorces, sentez-les, distinguez les feuillus des conifères, ceux qui cherchent la lumière, ceux qui poussent à l'ombre...;;EAU_BOURDE;HANDICAPES_PARTIEL
+63;33522;Bois de Thouars;La moitié des 60 ha de cette ancienne chênaie atlantique est inscrite en espace boisé classé. Les sous-bois, les lisières et les étangs favorisent la cohabitation d'une faune et d'une flore diversifiées qu'un circuit botanique et un parcours d'orientation vous aideront à observer. Les sportifs apprécieront également les équipements et appareils de musculation.;BOIS;VILLE;"TOILETTES
+EAU
+ACTIVITES_PEDAGOGIQUES
+TABLES
+BANCS
+TERRAIN
+PARCOURS_SPORTIF
+HANDICAPES_TOTAL"
+29;33167;Parc du Castel;Au coeur de la ville, le parc du Castel est un hâvre de paix. Ses belles allées ombragées, ses parterres fleuris et le bois qui le jouxte font l'objet d'une gestion écologique. Le château XIX°, qui superpose le style néogothique et des allures plus modernes, a été plusieurs fois remanié. Il accueille des expositions temporaires.;"PLAN_EAU
+COURS_EAU
+PRAIRIE
+PAYSAGE";COTEAUX;"TOILETTES
+EAU
+TERRAIN
+HANDICAPES_NUL"
+87;33200;Parc de la Luzerne;De l'ombre, du calme, des sentiers... Ce parc arboré de 2,5 ha est idéal pour lire, se promener ou pique-niquer. De conception écologique, ses équipements comme les bancs et les bains de soleil sont faits de matériaux naturels. Les végétaux plantés, des espèces autochtones et ornementales, ainsi que la pelouse rustique, nécessitent peu d'arrosage.;PAYSAGE;JALLES;HANDICAPES_TOTAL
+2;33003;Plan d'eau de la Blanche;Ce vaste plan d'eau accueille de nombreuses activités nautiques (voile, planche à voile, canoé, kayak...). Avec son ponton et ses équipements adaptés, il est aussi une référence en matière d'accessibilité aux personnes à mobilité réduite. Ceux qui préfèrent rester à terre apprécieront les rives enherbées du lac et le bois.;"BOIS
+PLAN_EAU";PRESQUILE;"PECHE
+PARCOURS_SPORTIF"
+25;33013;Bois de Feydeau;Ce bois se caractérise par une faune et une flore abondante. Marchez en silence, tendez l'oreille, cherchez les traces d'animaux. Il y en a partout, y compris dans le bois mort que les insectes saproxyliques décomposent et transforment naturellement en humus. Le bois Feydeau bénéficie d'une gestion écologique.;BOIS;COTEAUX;HANDICAPES_TOTAL
+109;33075;Réserve Naturelle Nationale des Marais de Bruges;Prairies humides, étangs, boisements, cours d'eau (les jalles)... Cette réserve naturelles de 262 ha, vestige des grands marais de Bordeaux, offre une mosaïque de paysages d'une grande valeur écologique et patrimoniale. Profitez des observatoires, des panneaux explicatifs et des documents pédagogiques pour repérer les milliers d'espèces qui y vivent.;"ZONE_HUMIDE
+PLAN_EAU
+PRAIRIE";EAU_BOURDE;"ACTIVITES_PEDAGOGIQUES
+HANDICAPES_PARTIEL"
+126;33063;Parc bordelais;Ce parc de 28 ha est labellisé Espace vert écologique et Jardin remarquable. Ses larges allées entraîneront promeneurs et joggeurs à travers une chênaie historique protégée, une rivière à l'Anglaise et toutes sortes de mises en scène végétales. Des jeux et un petit parc animalier raviront les enfants. Le parc dispose aussi d'une buvette.;"PAYSAGE
+PLAN_EAU";VILLE;"TOILETTES
+EAU
+HANDICAPES
+HANDICAPES_PARTIEL"
+62;33192;Parc de Cotor Laburthe;Ce grand parc de 43 ha a été entièrement réaménagé. Profitez-en pour y cheminer en famille. Il est composé de nombreuses essences d'arbres (des pins, des chênes, des aulnes...). Tendez l'oreille, ouvrez les yeux et cherchez les traces : de nombreux oiseaux et petits mammifères viennent s'abreuver dans les mares.;;FORET_OUEST;HANDICAPES_PARTIEL
+110;33063;Bordeaux lac;Drapeau vert : baignade autorisée ! A côté du cercle de voile de Bordeaux, profitez de la plage de sable fin et de l'aire de détente boisée. Le site est équipé de jeux pour les enfants, de tables de ping-pong, de tables de pique-nique et de sanitaires. Les personnes à mobilité réduite disposent d'un fauteuil amphibie, la baignade est surveillée et l'eau régulièrement contrôlée.;PLAN_EAU;VILLE;
+30;33065;Parc de Vialle;A proximité de la bibliothèque, installez-vous sur un banc, ou à l'ombre du grand marronnier, ou encore sous le vieux cèdre. Le parc de ce château reconstruit au XVIII° siècle par l'architecte Vialle offre un cadre des plus bucoliques. Au soleil couchant, le spectacle est magnifique. Les enfants apprécieront aussi les jeux.;PAYSAGE;EAU_BOURDE;"BANCS
+JEUX
+HANDICAPES_TOTAL"
+136;33522;Parc du Couvent;Ce parc de l'ancien couvent de Saint-Pierre fut celui de l'une des premières églises de Talence. Avec sa petite chapelle, ses bancs et ses arbres remarquables (d'immenses platanes, des chênes et des marronniers), il est un havre de paix. Des arbres fruitiers y ont été récemment plantés avec le souci de préserver l'équilibre naturel et l'histoire du lieu.;PAYSAGE;VILLE;HANDICAPES_TOTAL
+96;33449;Bords de jalles de Gajac;Une grande partie de ce parc est dédiée aux activités sportives (rugby, football et football australien, tir à l'arc, haltérophilie...). Plus pédagogique, ou juste pour le plaisir de longer la ripisylve, la promenade le long des berges de la Jalle vous conduira aux sources du Thil et de Gamarde. Le Moulin de Gajac figure à l'inventaire des monuments historiques.;"BOIS
+COURS_EAU";JALLES;"TOILETTES
+EAU
+JEUX
+ACTIVITES_PEDAGOGIQUES
+TERRAIN
+HANDICAPES_TOTAL"
+20;33119;Le loret;De grandes prairies, des arbres remarquables et une élégante chartreuse confèrent aux 14 ha du domaine de Loret une certaine noblesse. Le domaine, qui fut la propriété de Monsieur Sursol (plus gros producteur de vin rouge cenonnais avec 82 tonneaux en 1874) accueille aujourd'hui des associations culturelles et des événements artistiques.;PAYSAGE;COTEAUX;"PARCOURS_PEDESTRE
+PARCOURS_SPORTIF
+TERRAIN"
+66;33318;Parc  Razon;En centre-ville, ce parc est un lieu de promenade très fréquenté. Côté nature, son plan d'eau qu'alimente le ruisseau de l'Artigon et ses vieux cyprès chauves lui confèrent un charme indéniable. Côté sport, le parc est équipé de plusieurs terrains de tennis et d'un boulodrome. Les plus petits ne seront pas en reste : une aire de jeux leur est entièrement réservée.;PAYSAGE;FORET_OUEST;"JEUX
+EAU
+TERRAIN
+HANDICAPES_TOTAL"
+106;33056;Parc de Curegan;"Le belvédère de ce parc privé offre une jolie vue sur la vallée des jalles et sur la forteresse médiévale (le ""fort blanc""). Deux cèdres du Liban, espèce emblématique considérée comme un arbre sacré, trônent au cur de Curegan. Juste à côté, le cité-stade du Belvédère permet la pratique du basket-ball, du handball, du football, du roller et du vélo.";;JALLES;"TERRAIN
+HANDICAPES_PARTIEL"
+83;33075;Parc Treulon;Ce parc se caractérise par la présence de nombreux arbres centenaires dont un peuplement de platanes de plus de 60 m de haut. Visibles depuis le pont d'Aquitaine, ils servent de repère aux avions qui atterrissent à l'aéroport de Mérignac.;"BOIS
+PAYSAGE";EAU_BOURDE;"JEUX
+TABLES
+BANCS
+HANDICAPES_NUL"
+55;33192;Parc de Cayac;En centre-ville, à l'intersection de la D10 et de l'Eau Bourde, le Prieuré du XIIe siècle accueille toujours les pèlerins de Compostelle. Inscrit à l'inventaire supplémentaire des monuments historiques, entouré d'un moulin et d'un parc arboré aux belles essences d'aulnes, de cyprès chauves, de frênes et d'érables, il est un magnifique lieu de détente.;"PAYSAGE
+COURS_EAU";EAU_BOURDE;"TOILETTES
+ACTIVITES_PEDAGOGIQUES
+ART
+HANDICAPES_PARTIEL"
+33;33065;Bois de Loc Boue;Un parcours pédestre a été aménagé dans ce bois qui rassemble des essences diverses. Observez les arbres, apprenez à les reconnaître et voyez comment ils évoluent au fil des saisons. Une aire de jeux pour les enfants et un terrain de foot-ball sont également à votre disposition dans ce bois qui se prête autant à la découverte qu'à la détente.;BOIS;EAU_BOURDE;"BANCS
+JEUX
+TERRAIN
+PARCOURS_PEDESTRE
+HANDICAPES_PARTIEL"
+17;33119;Parc de Palmer;Avec ses 2 châteaux et ses 25 ha de paysages contrastés, le parc de Palmer fut un magnifique domaine agricole. Allées fleuries, arbres majestueux, théâtre de verdure, prairies vallonées ou fourrés à l'état sauvage : laissez-vous surprendre à chaque pas et profitez de ses équipements (piste d'athlétisme, aires de jeux et de pique-nique...).;PAYSAGE;COTEAUX;"BANCS
+TABLES
+JEUX
+PARCOURS_PEDESTRE
+HANDICAPES_PARTIEL"
+64;33522;Parc Chanteclerc;"Ce parc urbain de 7 000 m2 dont 6 000 m2 de sous-bois est idéal pour se promener et pique-niquer à l'ombre d'un charme ou d'un chêne. Bancs et corbeilles sont à votre disposition. L'école de musique amplifiée ""Rock et chanson"" et le ""café musique"" (une salle de spectacle) y sont également installés.";PAYSAGE;VILLE;HANDICAPES_TOTAL
+68;33318;Parc de Camponac;A proximité de la médiathèque Jacques Ellul et de l'Historial, les lecteurs aimeront se poser à l'ombre des arbres centenaires du parc de Camponac. Chêne fastigié, liquidambar, cyprès chauve... Vous avez le choix. Un plan d'eau ajoute à la sérénité du lieu. Une aire de jeux pour les enfants de 2 à 12 ans a également été aménagée.;"PLAN_EAU
+PAYSAGE";FORET_OUEST;"JEUX
+EAU
+HANDICAPES_TOTAL"
+79;33063;Parc Monséjour;Ce parc de 4 ha, labellisé espace vert écologique, faisait autrefois partie d un vaste domaine où l'on élevait des vaches. Près de l ancienne maison de maître, une petite aire de jeux accueille les jeunes enfants, mais c'est surtout par son calme que se distingue le parc. Promeneurs et lecteurs se plairont à l ombre de ses arbres centenaires, en majorité des chênes.;;;
+127;33069;Parc Marceau;"Cet espace boisé de 1,7 ha dont l'aspect ""parc à l'anglaise"" a été préservé favorise la détente, la promenade et le repos. Il abrite des chênes et surtout, de superbes platanes : des sujets ""hors normes"" qui apportent de la fraîcheur et constituent un refuge pour les oiseaux et les insectes, favorisant ainsi la biodiversité.";"BOIS
+PAYSAGE";VILLE;HANDICAPES_TOTAL
+82;33069;Bois de l'hippodrome;Paysagistes, architectes et associations de protection de l'environnement oeuvrent ensemble pour réaménager cet espace naturel longtemps délaissé et en faire une réserve de biodiversité. Avec ses zones humides et ses arbres remarquables, ce parc de 5 ha offre un habitat de choix aux insectes, aux oiseaux et aux petits mammifères.;;VILLE;ACTIVITES_PEDAGOGIQUES
+44;33039;Parc de Mussonville;La partie haute de ce parc de 15 ha est à l'abri des crues de la Garonne. Habitée dès le XII° siècle, elle se distingue par sa chapelle reconvertie en salle de spectacles, ses belles plantations et ses aires de jeux. En partie basse, un parcours de découverte permettra aux curieux de nature d'observer la faune et la flore de cette zone humide sillonnée d'esteys.;"ZONE_HUMIDE
+PRAIRIE
+PAYSAGE";EAU_BOURDE;"JEUX
+PARCOURS_PEDESTRE
+EAU
+HANDICAPES_TOTAL"
+99;33376;Forêt communale du canton de Boutuges;Dans cette forêt de type lande humide, découvrez un arboretum de 700 arbres de 27 espèces différentes.;BOIS;FORET_OUEST;"ACTIVITES_PEDAGOGIQUES
+HANDICAPES_NUL"
+117;33032;Parc Chartier;Ce parc paysager a été remis en valeur par la ville de Bassens. Deux chênes, un sorbier des oiseleurs, deux charmes et un tulipier de Virginie y ont été récemment plantés. Le lieu se prête à la promenade, à la détente ou encore à la lecture.;PAYSAGE;COTEAUX;HANDICAPES_NUL
+105;33056;Parc de Corbeil;Des arbres et des arbustes fruitiers, un hôtel à insectes, des nichoirs : il règne dans ce parc en ville, tout nouvellement réaménagé, comme une atmosphère de campagne. Installez-vous, détendez-vous. Les bancs, ainsi qu'une terrasse-observatoire sont en bois d'acacia, les corbeilles en bois de châtaignier. Les eaux de pluie, stockées dans des cuves, servent à l'arrosage.;PAYSAGE;JALLES;HANDICAPES_TOTAL
+131;33281;Parc du Luchey;Vestige du domaine viticole Luchey-Halde, ce parc de 5 ha se compose d'un verger de variétés anciennes, de massifs de vivaces à cueillir, de prairies fleuries et de coulées de bulbes. Dans cet espace de nature en ville, les sportifs apprécieront aussi les deux stations de musculation.;"PAYSAGE
+PRAIRIE";FORET_OUEST;"JEUX
+TERRAIN
+HANDICAPES_PARTIEL"
+61;33192;Parc de Crabette;Le nom de crabette ne fait pas référence aux crabes, mais aux chèvres (cabra). Le parc, une ancienne zone humide de 2,5 ha, était en effet une terre inculte. Vous vous y promenèrez au milieu des chênes et des bouleaux, qui apprécient les sols humides et acides.;;EAU_BOURDE;HANDICAPES_PARTIEL
+111;33075;Lac Lamothe;Ce plan d'eau a été creusé au début des années 1970 pour assainir les zones marécageuses du nord-ouest de Bordeaux. Les pêcheurs y taquineront le gardon, le rotengle, la brème, la tanche, la carpe, le brochet, le black-bass, le goujon... Quant aux marcheurs, sur 3 ha de nature, ils apprécieront tout particulièrement la promenade qui longe les berges.;"PLAN_EAU
+PAYSAGE";EAU_BOURDE;"PECHE
+HANDICAPES_NUL"
+60;33192;Parc du Chateau d'Ornon;Un cheminement piétonnier longe une vigne du domaine viticole communal classée AOC Graves Pessac-Léognan (6,55 ha de rouge). Vous apprécierez aussi l'ombre des chênes. Le parc abrite, par ailleurs, des jardins familiaux et les équipements sportifs du rugby club.;;EAU_BOURDE;HANDICAPES_PARTIEL
+57;33192;Parc du Moulin d'Ornon;"Ce parc arboré, le long de l'Eau Bourde, invite les pêcheurs autour de son étang dont la couleur de l'eau (l'eau ""bourde"" ou trouble) est caractéristique de l'alios, un agglomérat de sable et d'oxyde de fer. L'étang, qui fait office de bassin d'étalement, récupère les eaux pluviales du quartier de la House de Canéjan.";"PAYSAGE
+COURS_EAU
+PLAN_EAU";EAU_BOURDE;"PECHE
+HANDICAPES_PARTIEL"
+35;33039;Plaine des sports- le Verduc   Bègles-plage;Préparez maillots et grillades (ou bien vos cannes à pêche): sur les berges du lac*, 1000m2 de plage de sable et de 2000m2 de plage verte vous attendent. L'aire de pique-nique est équipée des barbecues et 20 ha de nature vous attendent pour une balade digestive. En sus des activtés nautiques, le site propose un city stade et des jeux pour les enfants.;"PRAIRIE
+PLAN_EAU";EAU_BOURDE;"TOILETTES
+EAU
+PECHE
+TERRAIN
+HANDICAPES_PARTIEL"
+145;33449;Bords de jalles de Magudas;Il fut un temps où, été comme hiver, le quartier de Magudas voyait défiler à longueur de journée les charrettes de linge des lavandières. Promenez-vous le long des berges de la Jalle : le site a été remis en valeur en 2010 et un théâtre de verdure est en cours d'aménagement. A proximité, les terrains de sport sont équipés d'un city-stade et d'une salle multisports.;"COURS_EAU
+PAYSAGE";JALLES;"TERRAIN
+HANDICAPES_TOTAL"
+119;33063;Promenade Rive Gauche des quais;Passé une longue période de léthargie, les quais de Bordeaux ont retrouvé leur faste. Sur 4,5 km, du parc des sports de Saint-Michel à Cap-Sciences à Bacalan, ils sont redevenus un haut lieu de promenade. Bullez, joggez, rêvez devant le miroir d'eau, pique-niquez sur la plaine des Girondins, jouez les rois du skate aux Chartrons... Et vivez la Garonne.;PAYSAGE;;"TERRAIN
+EAU
+TOILETTES
+PARKING
+BANCS
+JEUX
+PARCOURS_PEDESTRE
+ACTIVITES_PEDAGOGIQUES
+HANDICAPES_TOTAL"
+81;33162;Parc Gramond;"Trois ruches du programme ""Abeillles, sentinelles de l'environnement"" ont été installées dans ce parc de 7,4 ha composé de prairies, d'une zone humide et d'un espace boisé. Des arbres remarquables, ainsi que la mise en valeur de ses ruines et de son ancienne maison noble contribuent au charme de ce parc. Vous y trouverez aussi aires de jeux et de pique-nique.";"PRAIRIE
+ZONE_HUMIDE
+PAYSAGE";JALLES;JEUX
+7;33032;Parc Meignan;Ce jardin public de 1 ha s'orne de plusieurs arbres majestueux. Il entourait, autrefois, un manoir. Construit et reconstruir aux XVI° et XVIII° siècle, ce manoir n'existe plus, mais quelques vestiges en subsistent : un puits ventru du XVIII° ainsi qu'un remarquable portail d'entrée du début XIX° aux grilles hérissées d'artichauts.;PAYSAGE;COTEAUX;HANDICAPES_NUL
+11;33032;Panoramis;Laissez-vous surprendre par la biodiversité de cet espace naturel sensible de 10 ha. Vergers, pins sylvestres, haies, prairies... Cette mosaïque de paysages favorise la présence de nombreux animaux (dont les hérissons, une espèce en voie de disparition). Le plateau foisonnant d'orchidées sauvages et une magnifique vue sur le fleuve combleront votre regard.;PAYSAGE;COTEAUX;HANDICAPES_NUL
+91;33200;Boid de Déhès - Parc Intercommunal des Jalles;Ce bois classé Natura 2000 est situé dans la zone des sources. Observez la ripisylve, ces arbres et arbustes qui poussent le long des berges de la Gamarde. Leurs bois tendres et leurs longues racines sont capables de rester plusieurs mois sous l'eau et de résister aux courants.;"BOIS
+COURS_EAU
+ZONE_HUMIDE";JALLES;"ACTIVITES_PEDAGOGIQUES
+ART
+HANDICAPES_NUL"
+139;33522;Parc Curval;Avec ses 4,45 m de circonférence, le zelkova (orme du Caucase) du parc André Curval a été classé en 2008 parmi les arbres les plus remarquables de France.;PAYSAGE;VILLE;HANDICAPES_TOTAL
+70;33318;Parc de Cazalet;Pâturages, vignes, courses de chevaux, occupation allemande  L'ancien domaine de Cazalet a tout connu, ou presque. Des 60 ha de terres qui le composaient restent les 7 ha du parc. Doté d un magnifique pigeonnier en briques roses, de jeux pour les enfants et de belles allées ombragées, il est idéal pour la promenade. Quant au château XIX°, il sert aux mariages et aux cérémonies.;;VILLE;HANDICAPES_TOTAL
+77;33281;Parc du Jard;;PAYSAGE;FORET_OUEST;HANDICAPES_PARTIEL
+9;33032;Petit Bois du Bousquet;Sur le parcours du Parc des côteaux, le petit bois du Bousquet bénéficie d'un aménagement paysager favorisant la biodiversité et le respect de l'environnement (arrosage par goutte-à-goutte, éclairages à faible consommation...). Une piste cyclable, un cheminement piétonnier, des bancs et une aire de pique-nique rendent la balade encore plus agréable.;BOIS;COTEAUX;HANDICAPES_NUL
+16;33249;Parc des Iris;Un sentier qui serpente le long d'une prairie fleurée, des arbres remarquables, un château dans le style classique du XIX° siècle ainsi qu'une vue magnifique sur Bordeaux donnent un charme fou à ce parc. Les enfants apprécieront les espaces de jeux, et aussi les ânes, les poules, les poneys, les chèvres et autres animaux de la ferme pédagogique.;"PRAIRIE
+PAYSAGE";COTEAUX;HANDICAPES_TOTAL
+5;33032;Domaine Beauval;Un parcours d'orientation permet de découvrir ce patrimoine exceptionnel. Le château XVIII° à la façade théâtrale, le parc de 16 ha planté d'essences rares et les dépendances (lavoir, chais, cuvier, ferme...) témoignent du prestigieux passé de la propriété. Vous y verrez aussi une éolienne Bollée du XIX°. Elle offrait un confort rare pour l'époque : l'eau courante.;"PAYSAGE
+VIGNE";COTEAUX;"PARCOURS_PEDESTRE
+BANCS
+ACTIVITES_PEDAGOGIQUES
+ART
+HANDICAPES_NUL"
+21;33013;Parc du château bétailhe;Bétailhe illustre l'harmonie du patrimoine naturel et architectural des grands domaines de la rive droite. Cheminez parmi les arbres remarquables qui entourent le château du XV° siècle. Plusieurs fois remanié, il sert aujourd'hui de cadre à des événements artistiques. Des panneaux informent les promeneurs sur les techniques écologiques de gestion du parc.;"BOIS
+PAYSAGE";COTEAUX;"ART
+HANDICAPES_TOTAL"
+28;33167;Domaine de la Burthe;Variez les plaisirs dans ce domaine de 70 ha (dont 60 ha de forêt). Ce site est exceptionnel par sa taille, par la variété de sa faune et de sa flore, et par les activités proposées : circuits botaniques et de découvertes, parcours d'orientation, complexe sportif, centre équestre... Le tout bénéficiant d'une gestion écologique !;"BOIS
+ZONE_HUMIDE
+COURS_EAU";COTEAUX;"TOILETTES
+ACTIVITES_PEDAGOGIQUES
+PARCOURS_PEDESTRE
+PARCOURS_SPORTIF
+TERRAIN
+HANDICAPES_PARTIEL"
+129;33069;Parc de la Chêneraie;C'est en 1845 que cette ancienne propriété viticole de 5 ha (alors transformée en maison de santé pour le traitement des maladies mentales) s'est dotée d'un parc au cadre exceptionnel. Les grands arbres (micocouliers, chênes verts, chênes lièges, magnolias...) y sont remarquables. Découvrez-les à pied ou à vélo. Les enfants se passionneront aussi pour l'hôtel à insectes.;"BOIS
+PAYSAGE";VILLE;"TOILETTES
+HANDICAPES
+JEUX
+ACTIVITES_PEDAGOGIQUES
+HANDICAPES_TOTAL"
+147;33318;Parc de Fontaudin;Canards et poules d'eau évoluent en toute tranquillité dans le bassin du parc, créé pour la régulation des eaux pluviales. Lieu de rendez-vous des passionnés de pêche, il est également apprécié des promeneurs et des familles. Les enfants de 3 à 6 ans aimeront tout particulièrement l'aire de jeux.;"PLAN_EAU
+PAYSAGE";FORET_OUEST;"JEUX
+EAU
+PECHE
+HANDICAPES_TOTAL"
+22;33013;Parc de la mairie;Sportif ou promeneur ? Deux circuits balisés (l'un de 6 km, l'autre de 12 km) vous permettront de découvrir, à votre rythme, le parc du château de l'hôtel de ville et ses arbres remarquables. Les pêcheurs, eux, apprécieront l'étang. Des panneaux informent les visiteurs sur les techniques écologiques de gestion du parc.;PAYSAGE;COTEAUX;"EAU
+PECHE
+PARCOURS_SPORTIF
+JEUX
+TABLES
+BANCS
+PARCOURS_PEDESTRE
+ART
+HANDICAPES_PARTIEL"
+76;33281;Parc du Vivier;Ce parc de 9 ha, qui accueille l'hôtel de ville, compte de nombreuses essences nobles : des cèdres, des magnolias à grandes fleurs, des cyprès-chauves... Vous y verrez aussi une collection de camélias, des rhododendrons, plus de 40 000 plantes à massifs annuelles. Sur les étangs, cygnes blancs et noirs, carolins, mandarins et canards fascineront les enfants.;PAYSAGE;FORET_OUEST;"JEUX
+PARCOURS_PEDESTRE
+HANDICAPES_PARTIEL"
+40;33039;Parc Mairie;Promenez-vous à l'ombre des arbres centenaires de ce joli parc de 1,5 ha agrémenté de bancs et d'une fontaine fleurie peuplée de poissons.;"PAYSAGE
+PLAN_EAU";EAU_BOURDE;BANCS
+4;33003;Parc Kelheim;En centre ville, ce beau parc arboré compte 26 arbres remarquables par leur taille : des magnolias, des chênes, des cyprès...  Le nom du parc fait référence à la ville de Keilhem, en Allemagne, avec laquelle Ambarès est jumelée.;PAYSAGE;PRESQUILE;
+114;33063;Parc floral/ bois de Bordeaux;Au parc floral, vous découvrirez des collections exceptionnelles de pivoines, de magnolias, d'iris, de rhododendrons, une roseraie de 5 000 m2, un torrent des Pyrénées, des jardins du monde... S'y ajoutent un troupeau de vaches bordelaises et l'extraordinaire diversité de plantes, d'insectes et d'oiseaux du bois de Bordeaux : au total, 150 ha de nature !;"PAYSAGE
+ZONE_HUMIDE
+BOIS";JALLES;"TOILETTES
+EAU
+ACTIVITES_PEDAGOGIQUES
+HANDICAPES_TOTAL"
+149;33192;Parc de Montgaillard;Ce joli parc doté d'un étang est situé le long de l'Eau Bourde. Le moulin avec une roue à aube, l'un des derniers de la commune, a été entièrement restauré. Accessible aux personnes à mobilité réduite, il est équipé de jeux, de tables et de bancs pour le pique-nique.;"BOIS
+PLAN_EAU";EAU_BOURDE;"TOILETTES
+EAU
+JEUX
+TABLES
+BANCS
+ART
+HANDICAPES_PARTIEL"
+69;33318;Parc de Jozereau;Dans ce parc au charme doucement sauvage, une passerelle enjambe l'étang couvert de nénuphars. Le lieu est très apprécié des pêcheurs (en association avec le syndicat de quartier). Quant aux plus petits, de 2 à 6 ans, ils s'en donneront à coeur joie dans l'aire de jeux aménagée à leur intention. Le parc dispose aussi d'une aire de pique-nique.;"PLAN_EAU
+PAYSAGE";FORET_OUEST;"JEUX
+EAU
+PECHE
+HANDICAPES_TOTAL"
+10;33032;Parc de l'Europe;Selon la légende, du Guesclin aurait séjourné dans la maison forte qui se trouvait sur ce site au XIV° siècle. Il n'en reste aucune trace et l'actuel château XVII°, le plus ancien de la commune, accueille désormais les Restaurants du coeur. Dans le parc, des stèles commémorent le jumelages de Bassens avec plusieurs villes d'Europe.;PAYSAGE;COTEAUX;"ART
+HANDICAPES_NUL"
+46;33192;Parc de Pelissey;;;EAU_BOURDE;HANDICAPES_PARTIEL
+133;33281;Parc de Tenet;Ce parc boisé de 2 ha faisait autrefois partie d'un grand domaine viticole : le Château Ducasse. Un parcours pédestre vous en fera découvrir les nombreuses essences : érable champêtre, séquoia, micocoulier de Virginie, charme commun, chêne pédonculé, cyprès chauve, platane à feuilles d'érable... Le parc est aussi équipé de jeux pour les enfants, de tables et de bancs.;"BOIS
+PAYSAGE";FORET_OUEST;"JEUX
+PARCOURS_PEDESTRE
+TABLES
+BANCS
+HANDICAPES_PARTIEL"
+71;33318;Bassin de Cap de Bos;Des fossiles d'animaux paléolithiques marins de 18 millions d'années ont été découverts dans cette ancienne lande marécageuse où un bassin paysager de rétention des eaux pluviales a été aménagé. Les enfants de 6 à 12 ans apprécieront l'aire de jeux conçue sur le thème de la paléontologie. Les pêcheurs préféreront s'essayer à la mouche (avec l'association AAPPMA).;"MARAIS
+PAYSAGE";FORET_OUEST;"JEUX
+ACTIVITES_PEDAGOGIQUES
+PECHE
+HANDICAPES_TOTAL"
+15;33249;Parc de l'Ermitage;Cette ancienne carrière d'extraction de calcaire a été réaménagée en parc naturel urbain. Elle offre une vue à vous couper le souffle sur le port de la lune. Observez aussi sa végétation : une mosaïque de bois, de pelouses séches et de zones humides où 300 espèces de plantes et 92 espèces d'oiseaux ont été comptabilisées.;"BOIS
+PLAN_EAU
+ZONE_HUMIDE";COTEAUX;"EAU
+HANDICAPES_NUL"
+32;33065;Esplanade;Aidez-vous des tables d'orientation et repérez le lit majeur de la Garonne, le clocher de l'église Saint-Michel à Bordeaux, les tours de Pessac, la forêt des Landes girondines... Ce parc historique du château Treulon (datant du XV° siècle) a été réhabilité par les services municipaux en 1985 - 1987. Il offre un panorama exceptionnel sur l'agglomération bordelaise.;PAYSAGE;EAU_BOURDE;"BANCS
+ACTIVITES_PEDAGOGIQUES
+HANDICAPES_TOTAL"
+45;33192;Parc de la Tannerie;Ce parc en bordure de la Rocade (sortie 17) est l'occasion de visiter une plantation de kiwis. 220 actinidias, pouvant produire 400 à 500 kg de kiwis chacun, y sont plantés. Le parc abrite aussi de nombreuses autres essences d'arbres (chênes, charmes, aulnes, peupliers, érables, cèdres et sapins...).;BOIS;EAU_BOURDE;HANDICAPES_PARTIEL
+8;33096;Parc Favols;;;PRESQUILE;
+102;33056;Parc de Fongravey;Un grand parvis de 600 m2 accueille les promeneurs dans ce parc boisé paysager de 10 ha. Passé une double allée de platanes, vous pénétrerez dans une vaste prairie où trône un chêne vieux de 200 à 300 ans. Ceux qui aiment se défouler apprécieront tout particulièrement le parcours santé et le skateparc de plus de 600 m2, ouvert toute la journée.;"PAYSAGE
+PRAIRIE";JALLES;"TERRAIN
+PARCOURS_SPORTIF
+HANDICAPES_TOTAL"
+148;33376;Forêt communale du canton du Cerisier;Cette forêt de type lande mésophile sèche est essentiellement constituée de fougères aigle, de pins maritimes et de chênes tauzin. Classée en forêt de protection périurbaine, elle bénéficie depuis 1942, par ordonnance du roi Louis-Philippe, du régime forestier.;BOIS;FORET_OUEST;HANDICAPES_NUL
+75;33281;Parc du Château;Ce parc de 22 ha a deux vocations : récréative et éducative. Côté nature, l'espace boisé est peuplé de pins maritimes, chênes tauzin, chênes pédonculés, châtaigniers, charmes, cyprès chauves... Côté détente, il vous offre deux parcours sportifs de 1 200 et 2 000 m, des aires de repos, ainsi que des sculptures en bois dans la clairière de contemplation.;"BOIS
+PAYSAGE";FORET_OUEST;"PARCOURS_SPORTIF
+TABLES
+BANCS
+ART
+HANDICAPES_PARTIEL"
+88;33200;Parc de Bel Air;Sur près de 5 ha et à deux pas du centre-ville, détendez-vous dans ce beau parc boisé aux essences autochtones et ornementales. Il est équipé d'un terrain de jeux, d'un piste de skate, d'une piste de VTT et d'un terrain de boules. Cet ancien domaine agricole est également connu pour accueillir le centre d'entraînement et de formation du FC des Girondins.;"BOIS
+PLAN_EAU";JALLES;"TOILETTES
+PARCOURS_SPORTIF
+TERRAIN
+HANDICAPES_TOTAL"
+100;33056;Parc du Tanaïs;Cet ancien domaine boisé de 65 ha a servi de lieu de repos aux officiers allemands durant la 2° guerre mondiale. Aujourd'hui, Tanaïs se prête à de multiples activités : équitation, tir à l'arc, course d'orientation avec 4 niveaux de pratique... Ne manquez pas, non plus, le long des sentiers botaniques, les anecdotes et informations sur les espèces et essences rares.;BOIS;JALLES;"ACTIVITES_PEDAGOGIQUES
+RECEPTION
+PARCOURS_PEDESTRE
+HANDICAPES_TOTAL"
+80;33162;Parc de La Forêt;Relié au parc Gramond par un sentier pédestre, le parc de la forêt, d'une superficie de 2,1 ha, se divise en deux parties : une prairie utilisée pour la pratique du base ball, et une partie arborée. Une aire de jeux pour les enfants a également été aménagée.;"BOIS
+PRAIRIE";JALLES;JEUX
+84;33162;Parc du Vigean;A flanc de coteau, cette ancienne propriété privée est restée à l'abandon pendant plusieurs décennies. Aujourd'hui, le parc du Vigean a retrouvé une nouvelle vie. Avec ses chênes et ses charmes d'environ 80 ans, il vous offre 3,5 ha de sous bois naturels, des espaces de détente engazonnés et des jeux pour les enfants.;"PRAIRIE
+ZONE_HUMIDE";JALLES;JEUX
+74;33281;Parc de Beaudésert ou Parc Saint-Exupéry;Au XIX° siècle, ce parc d'agrément, dont subsistent quelques vestiges, faisait partie d'un important domaine de 100 ha : celui du Château de Beaudésert. La végétation y est constituée de chênes, d'acacias, de cyprès chauves reconnaissables à leurs racines aériennes. Découvrez-les à votre rythme. Profitez aussi du parcours sportif, des tables et des bancs.;PAYSAGE;FORET_OUEST;"PARCOURS_SPORTIF
+TABLES
+BANCS
+HANDICAPES_NUL"
+34;33039;Pré de Rimbault;Envie de flâner, de courir ou même de jardiner ? Un  potager pédagogique a été créé dans cette belle prairie fleurie de 1,9 ha. Ce havre de verdure, qui symbolise le passé rural de Bègles, faisait partie de la ferme familiale des Rimbaud, exploitée jusqu'en 1975. Aujourd'hui, une fauche tardive favorise la biodiversité et il fait bon y pique-niquer.;PRAIRIE;EAU_BOURDE;"TABLES
+BANCS
+PARCOURS_PEDESTRE"
+85;33162;Parc Lescombes;Ce parc paysager de 1,5 ha se distingue par ses arbres remarquables (dont un mûrier blanc d'environ 250 ans) et par son patrimoine bâti. Le pigeonnier/puits du 16° siècle, classé Monument historique, abrite l'écomusée du maraîchage. Les enfants pourront s'initier au jardinage grâce au potager pédagogique, et aussi profiter de l'aire de jeux.;"PAYSAGE
+PRAIRIE";JALLES;"TOILETTES
+EAU
+ART
+JEUX
+ACTIVITES_PEDAGOGIQUES
+RECEPTION
+ART"
+132;33281;Bois du Burck;"Trois zones, trois couleurs : en rouge, le bois familier ; en jaune, la lande atlantique ; en bleu le nouveau bois. Des jeux pour les petits, deux parcours de santé équipés d'appareils de musculation, un sentier de découverte et des aires de pique-nique permettront à tous de profiter de cette ancienne propriété viticole de 38 ha transformée en bois.";BOIS;FORET_OUEST;"JEUX
+PARCOURS_SPORTIF
+PARCOURS_PEDESTRE
+ACTIVITES_PEDAGOGIQUES
+ART
+HANDICAPES_PARTIEL"
+150;33192;Parc de Saint Albe;Un ancien lavoir témoigne du passé de ce parc le long de l'Eau Bourde. Prenez le temps de vous promener dans les allées bordées de magnifiques cèdres du Liban. Vous pouvez aussi entretenir votre forme en suivant les étapes du parcours sportif.;"PAYSAGE
+PRAIRIE";EAU_BOURDE;"PARCOURS_PEDESTRE
+PARCOURS_SPORTIF
+HANDICAPES_PARTIEL"
+123;33063;Jardin public;Créé en 1746, ce parc de 14 ha conçu à la Française a été transformé en terrain militaire sous Napoléon Ier, puis en jardin à l'anglaise en 1858. Il a alors été doté d'une rivière, de ponts, d'îles et de pelouses plantées d'essences rares. Aujourd'hui, le jardin public est en gestion écologique. 300 arbres y ont été replantés depuis 2009 et 17 espèces d'oiseaux y vivent.;"PAYSAGE
+PLAN_EAU";VILLE;"TOILETTES
+EAU
+HANDICAPES
+ACTIVITES_PEDAGOGIQUES
+HANDICAPES_TOTAL"
+72;33318;Forêt du Bourgailh;Personne n'aurait imaginé, du temps où le site était l'ancienne décharge communautaire, qu'il se transformerait un jour en écosite. Les belvédères offrent des points de vue magnifiques. L'un deux surplombe la colline aux éricacées. Une serre tropicale ainsi que de nombreuses animations sur la nature et l'environnement renforcent l'intérêt du lieu.;BOIS;FORET_OUEST;"JEUX
+EAU
+ACTIVITES_PEDAGOGIQUES
+HANDICAPES_TOTAL"
+36;33039;Berges de Garonne;Dans cette zone humide de 18 ha classée Natura 2000, les chemins qui longent la Garonne offrent le spectacle d'un environnement étonnamment sauvage. Pédalez, courez, pique-niquez, flânez devant les silhouettes graciles des carrelets ou devant l'exposition permanente de statues de la Morue Noire. Les enfants pourront aussi profiter de l'aire de jeux.;ZONE_HUMIDE;EAU_BOURDE;"TABLES
+BANCS
+JEUX
+EAU
+ART"
+23;33013;Parc du Château Feydeau;Avec ses arbres remarquables, le parc de cette ancienne propriété viticole de 30 ha se prête à de bien belles balades. Le château XVIII° accueille quant à lui le pôle culturel du Cuvier (l'une des 8 structures françaises dédiées au développement de la danse contemporaine).;;COTEAUX;HANDICAPES_TOTAL
+140;33063;Jardin de la Bechade;Lors de son inauguration, en 2011, 60 espèces de chênes du monde entier et de nouveaux plants de vigne ont été plantés par les enfants des écoles. Ce triangle de verdure de plus d'un hectare abrite aussi de magnifiques arbres tricentenaires et des orangers du Caucase. Le site est équipé d'une aire de jeux pour les enfants et d'un terrain de pétanque.;;;
+142;33312;Bois d'arboudeau;"Le parc de cet ancien couvent tire son nom de l'adjectif ""arboulin"" (qui plaît à l'arbre). Ses 17 ha boisés d'essences typiques de la région (chênes, robiniers, pins maritimes...) sont sillonnés d'allées de promenade et des parcours sportifs (présentant plusieurs circuits fléchés de difficulté croissante) Possibilité de poursuivre la promenade sur la digue bordant les Gravières.";BOIS;JALLES;"TABLES
+BANCS
+PARCOURS_SPORTIF
+RECEPTION
+HANDICAPES_PARTIEL"
+18;33119;Parc du Cypressat;Après avoir été une propriété privée impénétrable, le parc du Cypressat est aujourd'hui accessible à tous, y compris aux personnes à mobilité réduite. Sur 17 ha de pentes douces, découvrez ses prairies et sa forêt aux 1 200 arbres répertoriés (dont une collection de cyprès, arbre emblématique de Cenon). Des belvédères offrent une vue panoramique sur l'agglomération.;PAYSAGE;COTEAUX;"EAU
+TOILETTES
+TABLES
+BANCS
+PARCOURS_PEDESTRE
+HANDICAPES_TOTAL"
+86;33162;Domaine du Pinsan;"Le succès de ce domaine de 44 ha tient à la présence conjuguée de 22 ha d'espaces boisés, d'aires de jeux et d'infrastructures sportives ""haut de gamme"". Amoureux de la nature ? Découvrez les sentiers pédestres et le parcours d'orientation. Sportif ?  Profitez des terrains de foot, piscines d'hiver et d'été, courts de tennis, skatepark, salle omnisports...";"BOIS
+PRAIRIE";JALLES;"TOILETTES
+EAU
+TERRAIN
+PARCOURS_SPORTIF
+PARCOURS_PEDESTRE"
+98;33376;Forêt communale du canton des Matruques;En Gascon, les matruques sont des touradons (des touffes) de molinie, une plante graminée typique des zones humides. A la limite de partage des eaux du plateau médocain, cette forêt de type lande humide accueille, 10 mois sur 12, un troupeau de 300 moutons qui en nettoient les sous-bois.;BOIS;FORET_OUEST;HANDICAPES_NUL
+58;33192;Parc de Poumey;Le château, son parc et ses vignes ont pris leur forme actuelle en 1871. Lors de sa mise en vente, en 1987, le domaine de Poumey était la dernière exploitation viticole de Gradignan encore en activité. Convoité par des promoteurs, il a été racheté par la municipalité soucieuse de préserver son patrimoine culturel. Le fermage en est assuré par le Château Pape-Clément.;;EAU_BOURDE;HANDICAPES_PARTIEL
+50;33192;Parc de Mandavit;Ce parc très réputé attire de nombreux amateurs de sports de plein air. Sur 24 ha de prairies et 33 ha de bois plantés de pins maritimes, de pins parasols, de chênes et de châtaigniers, profitez de ses terrains de football, de ses parcours vitalité, de ses pistes cyclables de loisir, ou encore de ses tables de ping-pong et de son terrain de pelote.;"PRAIRIE
+BOIS";EAU_BOURDE;"EAU
+TOILETTES
+TERRAIN
+PARCOURS_SPORTIF
+HANDICAPES_PARTIEL"
+121;33063;Jardin botanique;A la fois scientifique et ludique, le jardin botanique de Bordeaux - Bastide propose une approche contemporaine de la biodiversité. La Galerie des milieux permet de comprendre le lien entre la géologie, le sol et les végétaux. Les serres recèlent d'étonnantes plantes carnivores. Quant à vous, vous pourrez vous restaurer dans l'espace prévu à cet effet.;;;
+1;33004;Parc de Cantefrêne;Des aires de jeux, des tables de ping-pong, un mini-golf, une piste cyclable, un parcours santé, des barbecues... Ce parc de 65 ha illustre la reconversion réussie d'une ancienne gravière dont les 3 étangs font tout le pittoresque. On aime s'y balader, à l'ombre des chênes et des frênes. La pêche est également autorisée dans l'un des lacs.;"BOIS
+PLAN_EAU";PRESQUILE;"TOILETTES
+EAU
+JEUX
+PARCOURS_SPORTIF
+TERRAIN
+PECHE
+HANDICAPES_PARTIEL"
+180;96;Plaine du faisan;Cette plaine de 1 ha est dotée de 3 terrains de football. Tandis que leurs aînés s'entraînent au ballon rond, les tout-petits pratiquent plutôt le tricycle. Une agréable promenade pédestre bordée d arbres entoure en effet les terrains enherbés de cette plaine du Faisan.;PRAIRIE;PRESQUILE;
+38;33039;Parc école de musique;A côté de l'école de musique, ce petit parc avec des bancs est dédié à la promenade et au repos.;PAYSAGE;EAU_BOURDE;BANCS
+12;33032;Domaine Séguinaud;"Ce domaine de 9 ha se distingue par un patrimoine bâti exceptionnel. Le château de Séguinaud et ses dépendances (un bourdieu) est caractéristique de l'architecture viticole du XIX° siècle. L'élégant château des Griffons, lui aussi du XIX° siècle, a été restauré en 2001. Il est aujourd'hui le siège du service ""Sport et vie associativé"".";PAYSAGE;COTEAUX;"TERRAIN
+ART
+HANDICAPES_NUL"
+41;33039;Parc Lacoste;Des tables et des bancs pour pique-niquer, des jeux pour les enfants, un théâtre de verdure, un terrain de pétanque, des points d'eau. Ce parc de 1,8 ha est idéal pour passer de bons moments en famille. Les prairies mellifères, dont les fleurs fournissent le nectar aux abeilles, sont un régal pour les yeux.;"PAYSAGE
+PRAIRIE";EAU_BOURDE;"TABLES
+BANCS
+JEUX
+EAU
+TERRAIN"
+78;33281;Parc L'Orée des deux villes;Envie de prunes, de thym, de céleri ? Profitez de ce nouveau parc urbain de 12 ha pour faire votre cueillette. Des gazons en « terre pierres » roulables et des bandes de guidage facilitent l'accès aux personnes handicapées et aux malvoyants. Le parc est aussi équipé d'une aire de jeux, de tables de pique-nique, de sculptures en bois et d'un théâtre de verdure.;PAYSAGE;FORET_OUEST;HANDICAPES_TOTAL
+104;33056;Parc de la Mairie;A l'entrée du parc, le pin parasol est caractéristique des régions méditerranéennes et du bassin aquitain. Il fait face à un bosquet de cèdres du Liban. Cette ancienne propriété viticole où l'on produisait un cru bourgeois en 1874, est également composée de prairies et de bois, des pins et des essences rares, toujours visibles.;PAYSAGE;JALLES;"TOILETTES
+EAU
+HANDICAPES_TOTAL"
+65;33550;Parc Soureil;;PAYSAGE;VILLE;HANDICAPES_TOTAL
+14;33249;Parc du Bois Fleuri;"Passez le petit portail bleu, traversez le parc avec ses arbres centenaires et rendez-vous au manoir XIX° de style néogothique. Nul doute que vous y trouverez ""La belle au bois dormant"". Le bâtiment fait aussi office de bibliothèque. Le parc, bien connu des festivaliers, abrite aussi le Pôle culturel et sportif du Bois fleuri.";BOIS;COTEAUX;HANDICAPES_TOTAL
+89;33200;Bois de Menespey;Ce bois de 1,25 ha aux essences autochtones et ornementales est l'un des nombreux espaces verts du Haillan. Idéal pour se reposer à l'ombre d'un arbre ou pour une balade au contact de la nature.;BOIS;JALLES;HANDICAPES_NUL
+51;33192;Parc de Bragues;Ce parc de 3,5 ha composé d'essences de chênes et de pins est une extension du domaine viticole communal classé AOC Pessac-Léognan (2,1 ha de rouge).;;EAU_BOURDE;HANDICAPES_PARTIEL
+67;33318;Parc pompidou;Au c ur de la ville, cette place de 1,4 ha enherbée et ombragée se prête à la promenade, à la lecture ou aux discussions entre amis, assis au pied d un arbre. Quatre magnolias se trouvaient auparavant sur la place de la V° République. Transplantés en raison des travaux, ils se portent à merveille. Le mardi matin, ne manquez pas le marché bio qui jouxte le parc.;;;HANDICAPES_TOTAL
+125;33063;Jardin de la Visitation;De nombreux travaux de réhabilitation ont permis de remettre en valeur ce jardin du XIX° siècle de style anglais. Il est équipé de nouveaux bancs et corbeilles et d'une table d'échecs. Un espace aménagé avec des sièges spécifiques, une table de ping-pong et un baby-foot a été conçu pour les adolescents.;;;
+134;33522;Parc Peixotto;Eté comme hiver, il règne comme un parfum de vacances dans ce grand parc arboré et fleuri qui sert de cadre à l'hôtel de ville. Etudiants, familles et simples promeneurs aiment s'y balader, lire ou discuter. Les enfants sont plutôt attirés par l'aire de jeux, les cygnes et les canards. Entre autres spectacles, le site est aussi le théâtre de feux d'artifice grandioses.;"PAYSAGE
+PAYSAGE";VILLE;"JEUX
+HANDICAPES_TOTAL"
+52;33192;Parc du Sabatey;"En bordure du ruisseau ""La Rouille du Moulet"", un affluent de L'Eau Bourde, ce parc de 15 ha accueille notamment l'écomusée de la vigne et du vin ainsi que la vigne municipale du Sabatey, classée AOC Pessac-Léognan (2,55 ha de blanc).";;EAU_BOURDE;HANDICAPES_PARTIEL
+103;33056;Parc de Carpinet;Le domaine de Carpinet existait déjà au XVI° siècle. Il a été acheté en 1880 par la ville de Blanquefort. Le domaine était alors composé d'une chartreuse, l'ancienne mairie devenue la Maison du patrimoine, et de bâtiments annexes qui accueillent l'école publique, et l'école de musique et de danse. Les enfants joueront aussi aux jeux dans le jardin.;PAYSAGE;JALLES;"TOILETTES
+ACTIVITES_PEDAGOGIQUES
+JEUX
+HANDICAPES_TOTAL"
+56;33192;Parc d'Anduche;Le long de l'Eau Bourde, sur 7 ha sillonnés de sentiers, ce parc se prête à d'agréables balades en famille. Tendez l'oreille, vous n'êtes pas seuls à apprécier l'ombre de ses essences variées (pins, chênes, châtaigniers, acacias...). Le parc est en effet peuplé d'un grand nombre d'oiseaux.;"BOIS
+COURS_EAU";EAU_BOURDE;HANDICAPES_PARTIEL
+107;33056;Parc de Dulamon;L'aire de jeux enchante déjà les enfants de 2 à 10 ans. Le parc, en cours de revalorisation, ravira aussi les promeneurs qui emprunteront ses chemins pour aller jusqu'à Majolan. Mise en valeur de la rocaille, nouveau sentier botanique doté de signalétique, mur végétalisé, nichoirs, bancs et corbeilles... Il bénéficie en effet d'une véritable remise en beauté !;PAYSAGE;JALLES;"JEUX
+HANDICAPES_TOTAL"
+3;33003;Parc du Gua;Au coeur d'Ambarès, ce parc ravira les amoureux de la nature. L'estey du Guâ, ce ruisseau qui chemine sur 13 communes, reçoit toutes les eaux du bassin versant de la presque'île. Il a fait l'objet de travaux de réaménagement. Ses berges dégagées, ses arbres centenaires et ses poissons à nouveau présents font ainsi le bonheur des promeneurs et des pêcheurs.;"PAYSAGE
+COURS_EAU";PRESQUILE;
+59;33192;Parc de L'Ermitage;Ce parc enchanteur de 9,5 ha est celui du château de l'Ermitage, un édifice du XIX° siècle qui fit office de mairie jusqu'en 1986 et où les mariages sont encore célébrés. Composé de prairies et de sous-bois de châtaigniers, d'ormes, de chênes, de charmes, de liquidambars et de pins Laricio, il abrite aussi une aire de jeux pour les enfants et le tennis-club.;;EAU_BOURDE;HANDICAPES_PARTIEL
+90;33200;Parc de Sainte Christine;Cet espace boisé de 5 ha aux essences autochtones et ornementales est l'un des nombreux espaces verts du Haillan. Idéal pour se reposer à l'ombre d'un arbre ou pour une balade au contact de la nature.;BOIS;JALLES;HANDICAPES_NUL
+115;33032;Bassin Pichon;Le bassin Pichon fait partie des deux bassins d'orage de la commune de Bassens. Peuplé de carpes, carcassins, gardons et rotengles, il est idéal pour pratiquer la pêche de loisir. Le bassin Pichon est aussi un agréable lieu de promenade et de détente.;PLAN_EAU;COTEAUX;"PECHE
+HANDICAPES_PARTIEL"
+135;33522;Parc Margaut;Ce parc urbain de 9 000 m2 non clôturé, dont 6 000 m2 de pelouse, se distingue par ses deux médaillons à la française et ses arbres de grande taille, des platanes, ainsi qu'un magnifique magnolia à côté du château XVIII° (où est installée l'école de musique). Equipé de bancs, de corbeilles et de toilettes à proximité, il se prête à la promenade et au pique-nique.;PAYSAGE;VILLE;"EAU
+TOILETTES
+HANDICAPES_TOTAL"
+26;33167;Parc du rectorat;A proximité de la médiathèque Roland Barthes, ce parc arboré est l'ancienne demeure du recteur de Bordeaux. Espace de détente et de balade, accessible aux personnes à mobilité réduite, il est équipé d'une aire de jeux et d'un city stade. Il se prête également à de nombreuses activités pédagogiques.;PAYSAGE;COTEAUX;"ART
+JEUX
+TERRAIN
+ACTIVITES_PEDAGOGIQUES
+HANDICAPES_TOTAL"
+143;33312;Parc du vieux logis;Ce parc arboré, composé d'essences originales, entoure le plus vieil édifice de la commune. Situé à proximité de la plaine des sports, le site est équipé d'un skate parc, de bancs et de sanitaires, et de jeux pour les enfants.;PAYSAGE;JALLES;"TOILETTES
+EAU
+BANCS
+JEUX
+TERRAIN"
+48;33192;Parc de Laurenzane;Avec ses anciens viviers, ses passerelles, son bassin ornemental et sa serre-volière construite par Gustave Eiffel, le parc du château de Laurenzane (l'actuelle mairie) offre un paysage des plus romantiques. Des parterres fleuris et de nombreux arbres remarquables dont un zelkova (orme de Sibérie) complètent le décor.;;EAU_BOURDE;HANDICAPES_PARTIEL
+128;33069;Parc de L'Ermitage;"En sus des équipements traditionnels (jeux pour les enfants, bancs, pétanque), ce parc pilote de 2,5 ha propose de nombreuses ""éco-activités"". Informez-vous grâce à la signalétique, discutez avec les jardiniers des nouvelles pratiques de jardinage écologique, découvrez le monde des abeilles, différenciez les espèces végétales et terminez votre parcours en beauté par la roseraie.";"BOIS
+PAYSAGE";VILLE;"TOILETTES
+RECEPTION
+HANDICAPES_TOTAL"
+124;33063;Parc Rivière /Maison du jardinier;Au coeur d'une pelouse entourée de sous-bois, subsistent les  ruines de l'ancien château du baron de Luze. Il fait bon s'y balader, entre les cyprès chauves et les chênes centenaires. Les écuries ont été aménagées en Maison du jardinier, une structure qui propose des ateliers, de la documentation, une tisanerie, ainsi que des jardins partagés associatifs.;PAYSAGE;VILLE;"TOILETTES
+EAU
+ACTIVITES_PEDAGOGIQUES
+ART
+HANDICAPES_TOTAL"
+94;33519;Forêt communale;"La forêt communale du Taillan est classée ""Forêt de protection"". Avec ses 150 ha (dont des zones humides) et ses 25 km de sentiers et d'allées cavalières, elle fait le bonheur des promeneurs et amateurs de châtaignes et de champignons. Composée essentiellement de pins maritimes, genêts, fougères, chênes et chèvrefeuilles, elle abrite aussi un drôle d'oiseau : la huppe fasciée.";"BOIS
+ZONE_HUMIDE";FORET_OUEST;"PARCOURS_PEDESTRE
+PARCOURS_SPORTIF
+HANDICAPES_NUL"
+151;33192;Parcs du Moulineau et du Domaine de Gay;Dans la continuité du cheminement de l'Eau Bourde, plus de 50 espèces de mammifères et d'oiseaux habitent ce parc animalier : des animaux de la ferme, et des représentants de la faune sauvage : cerfs, daims, wallabies, émeux... Sans oublier l'aquarium de la Maison de la Nature. Ce parc familial est également équipé d'aires de jeux et de pique-nique.;"PAYSAGE
+COURS_EAU";EAU_BOURDE;"EAU
+TOILETTES
+JEUX
+ANIMAUX
+TABLES
+BANCS
+ACTIVITES_PEDAGOGIQUES
+HANDICAPES_PARTIEL"
+130;33281;Parc de Bourran;Plan d'eau, îles, cascade, pont, arbre véritable, arbre factice... Saurez-vous distinguer l'oeuvre de la nature de celle de l'homme ? Le château Bourran et son parc, créé autour de la Devèze, sont inscrits à l'inventaire supplémentaire des monuments historiques. Un parcours botanique vous fera découvrir ses arbres remarquables. Une aire de jeux a aussi été prévue.;PAYSAGE;FORET_OUEST;"ACTIVITES_PEDAGOGIQUES
+HANDICAPES
+TABLES
+BANCS
+JEUX
+PARCOURS_PEDESTRE
+EAU
+TOILETTES
+HANDICAPES_PARTIEL"
+152;33550;Parc Sourreil;Près d'une trentaine d'arbres et d'arbustes sont mis en scène le long des allées de ce parc romantique qui entoure une superbe bâtisse XIX°. Vous y découvrirez une remarquable palette végétale. Espace de loisir familial, le parc dont les écuries accueillent la maison des Arts vivants, propose aussi une aire de jeux pour les enfants et des prairies pour les jeux de balle.;PAYSAGE;VILLE;HANDICAPES_TOTAL
+13;33249;Parc carriet;A pied ou en vélo, circulez dans ce joli parc boisé réaménagé en 2008. Un jardin de graminées met en valeur le château de Génicart qui accueille la direction Enfance Jeunesse Sport et Culture de Lormont.;"BOIS
+PAYSAGE";COTEAUX;"PARCOURS_PEDESTRE
+HANDICAPES_PARTIEL"
+120;33063;Parc aux Angéliques;"Prairies rustiques aux fleurs sauvages, bords de berge aux arbustes typiques des zones humides : le parc aux Angéliques ne cherche pas à domestiquer le paysage, mais à le naturaliser. 4 500 arbres (tous des essences locales) y ont été réintroduits et sur les 9 ha prévus à l'horizon 2016, 2 ha ""naturalisés"" sont d'ores et déjà ouverts au public.";"COURS_EAU
+PRAIRIE";BERGES_FLEUVES;"EAU
+TOILETTES
+HANDICAPES_TOTAL"
+49;33192;Parc du bois de Papaye;Sur 19 ha, dans la continuité du parc de Mandavit, ce parc se compose essentiellement de châtaigniers, de chênes, d'acacias et de pins maritimes.;;EAU_BOURDE;HANDICAPES_PARTIEL
+24;33013;Bois Margnat;Marchez, courez, pédalez... En un mot, respirez. Cette vaste forêt est idéale pour une promenade en famille, et les VTTistes apprécieront le circuit spécialement aménagé à leur attention. Passerelle en bois, virages relevés, double descente... N'oubliez pas vos casques !;BOIS;COTEAUX;HANDICAPES_TOTAL
